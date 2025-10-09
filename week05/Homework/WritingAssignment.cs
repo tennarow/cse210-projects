@@ -3,7 +3,6 @@ using System;
 public class WritingAssignment : Assignment
 {
     private string _title;
-    private string _dueDate;
 
     public string GetTitle()
     {
